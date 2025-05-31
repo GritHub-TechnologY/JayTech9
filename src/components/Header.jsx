@@ -11,8 +11,9 @@ export default function Header() {
     <header className="bg-white shadow-md fixed w-full z-20">
       <div className="container mx-auto px-6 py-3 flex justify-between items-center">
         <div className="flex items-center">
-          <img src={logo} alt="JayTech9" className="h-8 w-8 md:h-12 md:w-12" />
-          <span className="text-2xl font-bold text-teal ml-2">JayTech9</span>
+          
+          {/* <span className="text-2xl font-bold text-teal ml-2 pb-4">JayTech9</span> */}
+          <img src={logo} alt="JayTech9" className="h-12 w-38 md:h-12 md:w-38 "/>
         </div>
 
         {/* Desktop Nav */}

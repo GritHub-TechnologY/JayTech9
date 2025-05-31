@@ -190,10 +190,10 @@
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-dark text-white py-12">
+    <footer className="bg-teal text-white py-12">
       <div className="container mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
-          <h3 className="text-xl font-bold mb-4">Jaytech9</h3>
+          <h3 className="text-xl font-bold mb-4">JayTech9</h3>
           <p>Empowering growth with smart tech solutions.</p>
         </div>
         <div>
@@ -207,7 +207,7 @@ export default function Footer() {
         <div>
           <h4 className="font-bold mb-4">Contact</h4>
           <p>info@jaytech9.com</p>
-          <p>+234 XXX XXX XXXX</p>
+          <p>+234 111 111 1111</p>
         </div>
         <div>
           <h4 className="font-bold mb-4">Follow Us</h4>
